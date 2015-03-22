@@ -1,13 +1,13 @@
 # Footer navigation links
 
-- title: Home
+- title: Início
   url: /
 
-- title: Getting Started
-  url: /getting-started/
+- title: Tradução
+  url: /traducao/
 
-- title: About
-  url: /about/
+- title: Revisão
+  url: /revisao/
 
-- title: Terms
-  url: /terms/
+- title: Contato
+  url: /contato/
