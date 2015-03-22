@@ -1,0 +1,31 @@
+# Site navigation links
+
+- title: Tradução
+  url: /traducao/
+  excerpt: "Conheça os serviços de tradução."
+  image: 400x250.gif
+
+- title: Revisão
+  url: /revisao/
+  excerpt: "Revisão e Formatação."
+  image: 400x250.gif
+
+- title: Orçamento
+  url: /orcamento/
+  excerpt: "Revisão e Formatação."
+  image: 400x250.gif
+
+- title: Quem sou
+  url: /quemsou/
+  excerpt: "Conheça os nossos tradutores."
+  image: 400x250.gif
+
+- title: Contato
+  url: /contato/
+  excerpt: "All about Skinny Bones for Jekyll."
+  image: 400x250.gif
+
+- title: Saiba mais
+  url: /artigos/
+  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  image: 400x250.gif
